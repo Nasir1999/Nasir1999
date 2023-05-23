@@ -5,6 +5,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on MERN Stack technologies<br>📫 How to reach me nasirbaloch.dev@gmail.com<br>💬 Love to talk about programming and new technologies<br>
+![](https://komarev.com/ghpvc/?username=Nasir1999)
 <br>
 
 ## 🌐 Socials:
