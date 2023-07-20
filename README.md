@@ -4,7 +4,7 @@
 <br>
 
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack technologies<br>📫 How to reach me nasirbaloch.dev@gmail.com<br> ![WhatsApp](https://img.shields.io/badge/%20-82CD47.svg?style=social&logo=whatsapp&logoColor=82CD47) For instant reply, ping me on Whats App +92 340 1262410 <br> 💬 Love to talk about programming and new technologies<br><br>
+🔭 I’m currently working on MERN Stack technologies<br>📫 How to reach me nasirbaloch.dev@gmail.com<br> ![WhatsApp](https://img.shields.io/badge/%20-82CD47.svg?style=social&logo=whatsapp&logoColor=82CD47) For instant reply, ping me on Whats App +92 317 5811668 <br> 💬 Love to talk about programming and new technologies<br><br>
 ![](https://komarev.com/ghpvc/?username=Nasir1999)
 <br>
 
